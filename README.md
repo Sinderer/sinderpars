@@ -17,5 +17,5 @@
 - Чтобы мой GitHub выглядел живым ✅
 
 ## Контакты
-- Twitter: [твой ник](https://x.com/...)
-- Discord: твой ник
+- Twitter: sinderdd
+- Discord: sinderd
